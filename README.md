@@ -6,8 +6,8 @@
 
 - **Multimodal Integration**: Combines textual data and domain-specific annotations to build a robust knowledge base.
 - **Retrieval-Augmented Generation (RAG)**: Dynamically retrieves relevant content from the knowledge base to enhance document generation.
-- **Interactive User Interface**: Built with **Dify**, providing user-friendly input fields and an intuitive chatbot experience.
-- **Efficient Deployment**: Developed and containerized using **Docker**, supporting local and cloud deployment for scalability and accessibility.
+- **Interactive User Interface**: Built with [Dify](https://dify.ai), providing user-friendly input fields and an intuitive chatbot experience.
+- **Efficient Deployment**: Developed and containerized using [Docker](https://www.docker.com), supporting local and cloud deployment for scalability and accessibility.
 
 ## Objectives
 
@@ -41,16 +41,9 @@ Experience ClimateAI's capabilities through the interactive demo:
 
 - [Climate AI Demo](https://udify.app/chat/97DNoMzdrbiYHzkN)
 
-## Deployment Instructions
-
-1. Ensure Docker is installed on your system.
-2. Pull the ClimateAI Docker image:
-   ```bash
-   docker pull your-docker-repo/climateai:latest
-
 
 ## Acknowledgments
 
-This project was made possible with the support of [California Climate Exchange Company (CCEX)] (https://ccex.co) and the dedicated contributions of the UCI Master of Data Science team.
+This project was made possible with the support of [California Climate Exchange Company (CCEX)](https://ccex.co) and the dedicated contributions of the UCI Master of Data Science team.
 
 
