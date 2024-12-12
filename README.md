@@ -1,6 +1,6 @@
 # ClimateAI
 
-**ClimateAI** is an innovative system combining **Retrieval-Augmented Generation (RAG)** with **Large Language Models (LLMs)** to automate the generation of **Project Design Documents (PDDs)** compliant with the **Verified Carbon Standard (VCS)**. This project addresses the complexities of PDD creation by leveraging advanced retrieval and generation techniques, ensuring compliance, accuracy, and efficiency.
+**ClimateAI** is an innovative system combining **Retrieval-Augmented Generation (RAG)** with **Large Language Models (LLMs)** to automate the generation of **Project Design Documents (PDDs)** compliant with the **Verified Carbon Standard (VCS)** [https://verra.org/programs/verified-carbon-standard/?gad_source=1&gclid=Cj0KCQiAsOq6BhDuARIsAGQ4-zhFlFidhTx3jyUC2SANGHaeWUUzToOV1gY9B0Z-riUicyX5KVQSRoQaApnpEALw_wcB]. This project addresses the complexities of PDD creation by leveraging advanced retrieval and generation techniques, ensuring compliance, accuracy, and efficiency.
 
 ## Features
 
