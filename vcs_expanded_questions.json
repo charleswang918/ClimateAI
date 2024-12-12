@@ -1,0 +1,216 @@
+{
+    "multiple_choice": [
+        {
+            "question": "What does VCS stand for?",
+            "options": [
+                "Verified Carbon Standard",
+                "Voluntary Climate Scheme",
+                "Verified Credit System",
+                "Voluntary Carbon Standard"
+            ],
+            "answer": "Verified Carbon Standard"
+        },
+        {
+            "question": "Which organization manages the VCS Program?",
+            "options": [
+                "United Nations",
+                "Verra",
+                "World Bank",
+                "Climate Action Network"
+            ],
+            "answer": "Verra"
+        },
+        {
+            "question": "What is the primary greenhouse gas addressed by VCS projects?",
+            "options": [
+                "CO2",
+                "CH4",
+                "N2O",
+                "All Kyoto Protocol gases"
+            ],
+            "answer": "All Kyoto Protocol gases"
+        },
+        {
+            "question": "How long is the typical crediting period for a VCS project?",
+            "options": [
+                "5 years",
+                "7 years, renewable twice",
+                "10 years, fixed",
+                "Both B and C"
+            ],
+            "answer": "Both B and C"
+        },
+        {
+            "question": "What is a baseline scenario in VCS projects?",
+            "options": [
+                "The maximum GHG reduction possible",
+                "The project\u2019s expected emissions without intervention",
+                "The emissions produced by similar projects",
+                "The future emissions projections"
+            ],
+            "answer": "The project\u2019s expected emissions without intervention"
+        },
+        {
+            "question": "What is the function of buffer credits in AFOLU projects?",
+            "options": [
+                "To offset monitoring errors",
+                "To cover risks of non-permanence",
+                "To increase project longevity",
+                "To ensure baseline accuracy"
+            ],
+            "answer": "To cover risks of non-permanence"
+        },
+        {
+            "question": "Which methodology tool helps calculate AFOLU project risks?",
+            "options": [
+                "VCS Risk Assessment Tool",
+                "AFOLU Non-Permanence Risk Tool",
+                "Carbon Leakage Risk Calculator",
+                "Dynamic Baseline Estimator"
+            ],
+            "answer": "AFOLU Non-Permanence Risk Tool"
+        },
+        {
+            "question": "What is 'leakage' in the context of VCS projects?",
+            "options": [
+                "Project-related emissions increase outside the project boundary",
+                "Loss of carbon credits due to non-compliance",
+                "Monitoring errors in GHG reductions",
+                "Data errors during validation"
+            ],
+            "answer": "Project-related emissions increase outside the project boundary"
+        },
+        {
+            "question": "What should be done if a project fails to reassess its baseline as required?",
+            "options": [
+                "The project is disqualified.",
+                "Existing credits are frozen.",
+                "The baseline must be reassessed during the next monitoring period.",
+                "No action is required."
+            ],
+            "answer": "The baseline must be reassessed during the next monitoring period."
+        },
+        {
+            "question": "How are GHG reductions quantified in VCS projects?",
+            "options": [
+                "Through expert assumptions",
+                "Using IPCC guidelines and approved methodologies",
+                "By comparing market trends",
+                "By stakeholder surveys"
+            ],
+            "answer": "Using IPCC guidelines and approved methodologies"
+        },
+        {
+            "question": "Which type of projects are excluded from VCS eligibility in non-LDCs?",
+            "options": [
+                "Small-scale wind projects",
+                "Grid-connected hydroelectric plants above 15MW",
+                "Wetland restoration projects",
+                "Soil carbon sequestration projects"
+            ],
+            "answer": "Grid-connected hydroelectric plants above 15MW"
+        },
+        {
+            "question": "What is required when stakeholders provide feedback during the consultation?",
+            "options": [
+                "Immediate implementation of all suggestions",
+                "A transparent process to document and address feedback",
+                "Public disclosure of stakeholder identities",
+                "Formal agreement by all stakeholders"
+            ],
+            "answer": "A transparent process to document and address feedback"
+        },
+        {
+            "question": "What happens to non-permanence buffer credits if a project ends prematurely?",
+            "options": [
+                "They are refunded to the project proponent.",
+                "They are canceled to offset potential losses.",
+                "They are redistributed to other projects.",
+                "They are withheld until the project is reinstated."
+            ],
+            "answer": "They are canceled to offset potential losses."
+        },
+        {
+            "question": "What is the minimum destruction efficiency required for dilute ODS sources in VCS projects?",
+            "options": [
+                "85%",
+                "90%",
+                "95%",
+                "99.99%"
+            ],
+            "answer": "95%"
+        },
+        {
+            "question": "In which section of the VCS Standard can you find rules on stakeholder engagement?",
+            "options": [
+                "Section 2.1",
+                "Section 3.18",
+                "Section 4.2",
+                "Appendix A"
+            ],
+            "answer": "Section 3.18"
+        }
+    ],
+    "true_false": [
+        {
+            "question": "VCS projects are only applicable to developing countries.",
+            "answer": false
+        },
+        {
+            "question": "Monitoring reports are required for verification under the VCS Program.",
+            "answer": true
+        },
+        {
+            "question": "Double counting refers to claiming the same GHG reduction under two programs.",
+            "answer": true
+        },
+        {
+            "question": "Baseline scenarios describe expected emissions after project implementation.",
+            "answer": false
+        },
+        {
+            "question": "Stakeholder engagement is optional for small-scale projects under the VCS Program.",
+            "answer": false
+        },
+        {
+            "question": "AFOLU projects must have a minimum longevity of 40 years.",
+            "answer": true
+        },
+        {
+            "question": "The VCS Program prohibits all fossil fuel-based energy projects.",
+            "answer": false
+        },
+        {
+            "question": "Buffer credits can be traded in the carbon market.",
+            "answer": false
+        },
+        {
+            "question": "Dynamic baselines are allowed in certain VCS methodologies.",
+            "answer": true
+        },
+        {
+            "question": "Non-permanence risk assessments are only required during project validation.",
+            "answer": false
+        },
+        {
+            "question": "VCUs can be issued before verifying GHG reductions.",
+            "answer": false
+        },
+        {
+            "question": "Projects are required to monitor changes in soil carbon stocks for all AFOLU activities.",
+            "answer": false
+        },
+        {
+            "question": "Stakeholder input during consultations must always lead to design changes in projects.",
+            "answer": false
+        },
+        {
+            "question": "All ODS sources are eligible for destruction under the VCS Program.",
+            "answer": false
+        },
+        {
+            "question": "The VCS Program requires reassessment of AFOLU baselines every 10 years or less.",
+            "answer": true
+        }
+    ]
+}
