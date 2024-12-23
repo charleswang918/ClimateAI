@@ -39,7 +39,7 @@ For more detailed insights, please refer to our [ClimateAI Final Report](./Team3
 
 Experience ClimateAI's capabilities through the interactive demo:
 
-- [Climate AI Demo](https://udify.app/chat/97DNoMzdrbiYHzkN)
+- [Climate AI Demo](https://udify.app/chat/70idBMVMJ5d0CMgp)
 
 ![Cliamte AI Demo](./images/demo1.jpg)
 ![Cliamte AI Demo](./images/demo2.jpg)
